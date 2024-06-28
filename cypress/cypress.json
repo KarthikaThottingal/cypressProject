@@ -1,0 +1,6 @@
+
+  {
+    "integrationFolder": "cypress/e2e",
+    "testFiles": "**/*.feature"
+  }
+  

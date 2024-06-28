@@ -1,0 +1,9 @@
+{
+    "HomePageLocators" :{
+        "homePageLogo":"img[alt='client brand banner']",
+        "adminTab":"//span[text()='Admin']",
+        "userManagement ":"//span[text()='User Management ']" ,
+        "userClick":"a[class='oxd-topbar-body-nav-tab-link']",
+        "systemUserTab":"h5[class='oxd-text oxd-text--h5 oxd-table-filter-title']"
+    }
+}
